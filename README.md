@@ -13,3 +13,4 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/sizes-b-series-burstable
 
 Azure active direcory domain services 
 https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-configure-password-hash-sync
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/active-directory-domain-services/overview.md
